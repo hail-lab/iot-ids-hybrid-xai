@@ -19,11 +19,11 @@ The pipeline transforms three public IDS benchmark datasets (CICIDS2017, BoT-IoT
 
 | Dataset | Model | Features | F1-macro | ROC-AUC | Model Size | Latency |
 |---|---|---|---|---|---|---|
-| CICIDS2017 | XGBoost (hybrid) | 15 of 78 | 0.9959 | 0.9998 | 1.09 MB | 1.09 µs/sample |
+| CICIDS2017 | XGBoost (hybrid) | 15 of 78 | 0.9959 | 0.9998 | 1.04 MB | 1.09 µs/sample |
 | BoT-IoT | XGBoost (hybrid) | 15 of 20 | 0.9783 | 1.0000 | 0.52 MB | 0.63 µs/sample |
 | ToN-IoT | XGBoost (hybrid) | 15 of 40 | 0.9981 | 1.0000 | 1.07 MB | 1.01 µs/sample |
 
-Key efficiency gains versus full-feature Random Forest on CICIDS2017: **53× smaller model**, **7.2× lower latency**.
+Key efficiency gains versus full-feature Random Forest on CICIDS2017: **55× smaller model**, **7.2× lower latency**.
 
 ---
 
