@@ -1,0 +1,4 @@
+dataset,model,n_features,model_size_mb,per_sample_us
+ToN-IoT,DT,40,0.04,0.25
+ToN-IoT,RF,40,11.61,8.082
+ToN-IoT,XGBoost,15,1.07,1.006

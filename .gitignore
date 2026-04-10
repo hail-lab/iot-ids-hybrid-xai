@@ -1,0 +1,53 @@
+## Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+## Virtual environments
+.venv/
+venv/
+env/
+
+## Packaging and test artifacts
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+## OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+## Local logs
+log
+*.log
+
+## Binary model artifacts - never commit regardless of path
+*.joblib
+*.pkl
+*.h5
+*.pt
+*.pth
+
+## Data and generated artifacts (keep code only in git)
+data/raw/
+data/interim/
+data/processed/
+outputs/figures/
+outputs/logs/
+
+## Optional: keep folder structure when needed
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+!outputs/.gitkeep
+!outputs/figures/.gitkeep
+!outputs/tables/.gitkeep
+!outputs/models/.gitkeep
+!outputs/logs/.gitkeep
+!outputs/logs/.gitkeep
+
