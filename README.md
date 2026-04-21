@@ -214,20 +214,6 @@ Numbers quoted in the paper are sourced from files under `outputs/tables/`.
 
 ---
 
-## Citation
-
-If you use this code or the accompanying results, please cite the paper (BibTeX and CFF metadata in `CITATION.cff`):
-
-```bibtex
-@article{aljaloud2026quantifying,
-  author  = {Aljaloud, Saud and Alsaffar, Mohammad and Al-Mekhlafi, Zeyad},
-  title   = {Quantifying Explanation Faithfulness and Adversarial Drift in IoT Intrusion Detection: A Reproducible Audit Pipeline},
-  journal = {Sensors (MDPI)},
-  year    = {2026},
-  note    = {Submitted}
-}
-```
-
 ## License
 
 MIT — see `LICENSE`.
