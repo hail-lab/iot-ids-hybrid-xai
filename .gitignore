@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Data (never commit raw datasets)
+data/raw/*
+data/interim/*
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+
+# Logs
+outputs/logs/*
+!outputs/logs/.gitkeep
+
+# Large model artefacts (host externally; regenerate via src/train_baselines.py)
+outputs/models/xgb_cic.joblib
+outputs/models/xgb_bot.joblib

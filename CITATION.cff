@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this code or the accompanying results, please cite the paper below."
+title: "Faithful, Stable, and Adversarially Robust: A Deployable XAI Pipeline for Gradient-Boosted IoT Intrusion Detection"
+authors:
+  - family-names: Aljaloud
+    given-names: Saud
+    affiliation: "University of Ha'il, Saudi Arabia"
+    orcid: "https://orcid.org/0000-0001-6367-0309"
+    email: s.aljaloud@uoh.edu.sa
+  - family-names: Alsaffar
+    given-names: Mohammad
+    affiliation: "University of Ha'il, Saudi Arabia"
+  - family-names: Al-Mekhlafi
+    given-names: Zeyad
+    affiliation: "University of Ha'il, Saudi Arabia"
+version: "1.0.0"
+date-released: "2026-04-19"
+license: MIT
+repository-code: "https://github.com/hail-lab/iot-ids-hybrid-xai"
+keywords:
+  - intrusion detection
+  - Internet of Things
+  - explainable AI
+  - SHAP
+  - LIME
+  - adversarial robustness
+  - XGBoost
+  - feature selection
+preferred-citation:
+  type: article
+  title: "Faithful, Stable, and Adversarially Robust: A Deployable XAI Pipeline for Gradient-Boosted IoT Intrusion Detection"
+  authors:
+    - family-names: Aljaloud
+      given-names: Saud
+    - family-names: Alsaffar
+      given-names: Mohammad
+    - family-names: Al-Mekhlafi
+      given-names: Zeyad
+  journal: "Sensors (MDPI)"
+  year: 2026
+  status: submitted

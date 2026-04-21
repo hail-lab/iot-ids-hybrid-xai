@@ -1,0 +1,10 @@
+{
+  "N_BENIGN": 200,
+  "N_ADV": 200,
+  "TOP_K_VALUES": [
+    5,
+    10,
+    15
+  ],
+  "ZOO_MAX_ITER": 20
+}

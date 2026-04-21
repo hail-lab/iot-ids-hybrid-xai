@@ -1,0 +1,6 @@
+{
+  "N_SAMPLES": 500,
+  "LIME_N_SAMPLES": 100,
+  "N_STEPS": 15,
+  "TOP_K_MAX": 15
+}

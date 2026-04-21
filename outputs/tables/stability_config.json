@@ -1,0 +1,11 @@
+{
+  "N_BOOTSTRAPS": 30,
+  "BOOTSTRAP_SIZE": 500,
+  "LIME_BOOTSTRAPS": 10,
+  "LIME_SAMPLE_SIZE": 50,
+  "TOP_K_VALUES": [
+    5,
+    10,
+    15
+  ]
+}

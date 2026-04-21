@@ -1,0 +1,9 @@
+{
+  "datasets": [
+    "cic",
+    "bot",
+    "ton"
+  ],
+  "rare_class_threshold": 20,
+  "cap_samples": 1500000
+}

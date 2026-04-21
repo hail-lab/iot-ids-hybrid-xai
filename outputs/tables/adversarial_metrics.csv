@@ -1,0 +1,4 @@
+dataset,model,n_samples,n_features,zoo_success_rate,zoo_avg_l2,zoo_avg_linf,zoo_acc_clean,zoo_acc_adv,zoo_acc_drop,zoo_time_sec,note_hsj
+CICIDS2017,XGBoost,100,15,0.3,0.047015123069286346,0.024217166006565094,0.99,0.69,0.30000000000000004,9.807049989700317,HopSkipJump omitted: known convergence failure on XGBoost tree ensembles (piecewise-constant decision boundary causes infinite binary-search refinement).
+BoT-IoT,XGBoost,100,10,0.01,0.0002375359326833859,9.994029824156314e-05,1.0,0.99,0.010000000000000009,6.2873451709747314,HopSkipJump omitted: known convergence failure on XGBoost tree ensembles (piecewise-constant decision boundary causes infinite binary-search refinement).
+ToN-IoT,XGBoost,100,15,1.0,0.038167912513017654,0.019405800849199295,1.0,0.0,1.0,8.834272861480713,HopSkipJump omitted: known convergence failure on XGBoost tree ensembles (piecewise-constant decision boundary causes infinite binary-search refinement).

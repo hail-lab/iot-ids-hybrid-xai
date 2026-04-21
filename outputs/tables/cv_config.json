@@ -1,0 +1,7 @@
+{
+  "N_REPS": 2,
+  "N_FOLDS": 5,
+  "N_BOOTSTRAP": 1000,
+  "CI_LEVEL": 0.95,
+  "CV_SAMPLE_CAP": 500000
+}
