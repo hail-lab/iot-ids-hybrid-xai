@@ -26,8 +26,8 @@ from config import DATA, DATA_RAW, ensure_dirs
 KAGGLE_DATASET = "fadiabuzwayed/ton-iot-train-test-network"
 CSV_NAME = "TON_IoT_Train_Test_Network.csv"
 
-# Allow override via environment variable so local runs can target github_v3/data/
-# without modifying config.py.
+# Allow override via environment variable so local runs can target an alternate
+# data directory without modifying config.py.
 _DATA_OVERRIDE = os.environ.get("TON_DATA_DIR")
 if _DATA_OVERRIDE:
     _DATA_DIR = Path(_DATA_OVERRIDE)

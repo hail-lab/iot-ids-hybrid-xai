@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code or the accompanying results, please cite the paper below."
-title: "Faithful, Stable, and Adversarially Robust: A Deployable XAI Pipeline for Gradient-Boosted IoT Intrusion Detection"
+title: "Quantifying Explanation Faithfulness and Adversarial Drift in IoT Intrusion Detection: A Reproducible Audit Pipeline"
 authors:
   - family-names: Aljaloud
     given-names: Saud
@@ -28,7 +28,7 @@ keywords:
   - feature selection
 preferred-citation:
   type: article
-  title: "Faithful, Stable, and Adversarially Robust: A Deployable XAI Pipeline for Gradient-Boosted IoT Intrusion Detection"
+  title: "Quantifying Explanation Faithfulness and Adversarial Drift in IoT Intrusion Detection: A Reproducible Audit Pipeline"
   authors:
     - family-names: Aljaloud
       given-names: Saud
