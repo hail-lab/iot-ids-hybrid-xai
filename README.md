@@ -2,9 +2,9 @@
 
 Reference implementation for the paper
 
-> **Quantifying Explanation Faithfulness and Adversarial Drift in IoT Intrusion Detection: A Reproducible Audit Pipeline**
+> **Quantifying Explanation Faithfulness and Adversarial Robustness in IoT Intrusion Detection**
 > S. Aljaloud, M. Alsaffar, Z. Al-Mekhlafi — University of Ha'il, Saudi Arabia.
-> Submitted to *MDPI Sensors*, 2026.
+> Submitted to *Heliyon*, 2026.
 
 **Funding.** Scientific Research Deanship, University of Ha'il — project **BA-2122**.
 **Contact.** `s.aljaloud@uoh.edu.sa`
